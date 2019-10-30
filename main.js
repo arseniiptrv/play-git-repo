@@ -1,3 +1,2 @@
 var x = 50;
-var y = "text";
-
+var y = "some text";
